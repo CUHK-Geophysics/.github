@@ -1,8 +1,11 @@
 <div align="center">
   <img width="220" alt="CUHK Geophysics Laboratory" src="https://github.com/user-attachments/assets/3c6a3808-f645-47fb-a1bd-1e10a340daa6" />
 
-  <h1>Geophysics Laboratory at CUHK</h1>
-
+<h1>
+  <a href="https://cuhk-geophysics.github.io/" target="_blank" rel="noopener noreferrer">
+    Geophysics Laboratory @ CUHK
+  </a>
+</h1>
   <p><strong>Earthquake, volcanic, and Earth surface processes</strong><br/>
   Department of Earth and Environmental Sciences<br/>
   The Chinese University of Hong Kong</p>
