@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="220" alt="CUHK Geophysics Laboratory" src="https://github.com/user-attachments/assets/3c6a3808-f645-47fb-a1bd-1e10a340daa6" />
+  <img width="220" alt="CUHK Geophysics Laboratory" src="https://github.com/user-attachments/assets/0ea34324-c031-442a-b338-4de1ff8f13cc" />
 
 <h1>
   <a href="https://cuhk-geophysics.github.io/" target="_blank" rel="noopener noreferrer">
